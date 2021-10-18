@@ -14,7 +14,7 @@ There is a famous rumour about the space race in which the US spent millions of 
 
 The Russians just used pencils.
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/image1.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/image4.jpg)
 
 This story is used as a joke and as a cautionary tale: Beware the unnecessary expenses of the middle management.
 
@@ -22,7 +22,7 @@ The blockchain hype has been developing for years. It’s the panacea of the dat
 
 Can you imagine a world without lawyers, banks or administrators?
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/image2.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/image5.jpg)
 
 ## What is Blockchain?
 
@@ -56,7 +56,7 @@ Pretend you want to send money to your friend Paul. The bank knows how to do thi
 
 Bitcoins work differently. You basically shout into a chat “hey, i want to send some money to my friend Paul” and the users (called miners) collect various transactions in little blocks.
 
-PIC3
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/image6.jpg)
 
 In order to add these blocks of transactions to the public blockchain ledger, the miners have to crack a complicated puzzle (actually, they have to guess a very large number from a very, very long list of numbers). Solving that puzzle takes about 10 minutes – and if it’s solved more quickly, for instance because people use more hardware to solve the puzzle, it automatically becomes more difficult.
 
@@ -102,6 +102,8 @@ The Honduran land registry was going to use blockchain. Not anymore. The Nasdaq 
 Out of over 86,000 blockchain projects that had been launched, 92% had been abandoned by the end of 2017, according to consultancy firm Deloitte.
 Why? you might ask. Well, in some cases it might be like using a washing machine for just one sock.
 
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/image3.jpg)
+
 ### What happened to little Zuidhorn then?
 
 Funny thing is, if you check if there is a blockchain working in Zuidhorn, you’ll get a single sad miner working away, on a server, not connected to the internet.
@@ -145,7 +147,7 @@ Well, all the blockchain hype has made us pay attention to this particular probl
 
 Do you think we can magically automatizate all of the government's data? no, we need some crazy ideas first. 
 
-PIC4
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/image1.jpg)
 
 When trains were introduced to the general public, they were afraid women uteruses would come out flying from their bodies because of the high speed, but those were just baseless fears that were soon out of the windows themselves.
 
@@ -166,5 +168,4 @@ RSK uses GHOST to achieve average commit times between blocks of 10 seconds. The
 
 In conclusion, blockchain might have been the very expensive pen that NASA spent millions developing, but it got better over the years. Meanwhile, the russian pencil’s lead and chips were a danger to the spaceship.
 
-
-PIC5
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/image2.jpg)
