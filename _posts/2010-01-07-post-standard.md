@@ -14,7 +14,7 @@ There is a famous rumour about the space race in which the US spent millions of 
 
 The Russians just used pencils.
 
-TODO: PIC1
+{{ site.url }}{{ site.baseurl }}/assets/images/image1.jpg
 
 This story is used as a joke and as a cautionary tale: Beware the unnecessary expenses of the middle management.
 
@@ -22,7 +22,7 @@ The blockchain hype has been developing for years. It’s the panacea of the dat
 
 Can you imagine a world without lawyers, banks or administrators?
 
-TODO: PIC2
+{{ site.url }}{{ site.baseurl }}/assets/images/image2.jpg
 
 ## What is Blockchain?
 
