@@ -7,7 +7,7 @@ tags:
   - design
 ---
 
-PIC1
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/1.jpg)
 
 Remember those idyllic times before the internet? 
 
@@ -27,7 +27,7 @@ Colossal Cave Adventure was the first known work of interactive fiction and, as 
 
 Four years later,Roberta Williams came up with Mystery House (1980), a game you might remember from the movie Big (1988).
 
-PIC2
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/2.jpg)
 
 The game starts near an abandoned Victorian mansion and the player is soon locked inside the house with no other option than to explore. The mansion contains many interesting rooms and seven other people: Tom, a plumber; Sam, a mechanic; Sally, a seamstress; Dr. Green, a surgeon; Joe, a grave-digger; Bill, a butcher; and Daisy, a cook.
 
@@ -39,7 +39,7 @@ This story would inspire the later King’s Quest (1984), an adventure game that
 
 ### Another videogame about a Mansion
 
-PIC3
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/3.jpg)
 
 We talked about the mom, now let’s focus on the adventure game’s dad: Ron Gilbert. 
 He and Gary Winnick also conceived a video game about a creepy Victorian manor, in 1985. 
@@ -72,7 +72,7 @@ If you were like most people, you got pc video games before an internet connecti
 
 And there is an even bigger chance that the first thing you looked up on the internet (besides a raunchy picture of a certain celeb) was how to solve a difficult puzzle in an adventure game title. 
 
-PIC4
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/4.jpg)
 
 The Internet wasn't the neat sleek city we see today. And we, web cosmopolitas, often forget the jungle of uncertainty we had to face back in the before times. 
 Like pilgrims, we arrived at a new land with no rules and no directions. There was no Google to answer with a walkthrough within seconds. No. 
@@ -88,7 +88,7 @@ And i’m not talking about some confusing lost-in-translation jokes (Like a lit
 Some adventure games were so difficult Sierra On-line even came up with a phone line to get hints. (This was also mocked in a Monkey Island game)
 Don’t get me wrong, getting stuck IS half the fun of an adventure game. If a playthrough is too easy you get the feeling that you are too good for it (or that you shouldn’t have spent $50 in it)
 
-PIC5
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/5.jpg)
 
 ### Make them hard but not too hard
 
@@ -135,7 +135,7 @@ Guybrush can now go back to the waterfall and use the monkey to turn the pump.
 
 Get it? it’s a MONKEY wrench!. **Hilarious.**
 
-PIC6
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/image6.jpg)
 
 My bet is that many players got this answer by trial and error, by mistake, or by waiting some years and asking the internet. Sure the game has a certain comedic tone which fits the joke, but the thing is, If you are faced with a pump in an adventure game, you’ll probably search everywhere for a tool. I don’t know how many people thought “I need a monkey wrench, oh wait! there is a monkey at the bar.. etc”.
 
@@ -159,7 +159,7 @@ After a dark decade, adventure games seem to be getting back on their feet. What
 
 I think indie games were the ones that kept the flame alive after all these years. When a lot of publishers shyed from slow paced games and puzzle riddled games, they were the ones giving us masterpieces like: The Last Door (2013), The Room (2012) or Return of the Obra Dinn (2018)
 
-PIC7
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/image7.jpg)
 
 There is also the revival of the Point-and-click games with Thimbleweed Park (2017), Sam & Max (2021) and the remasterization of the Monkey Island Saga.
 And we also got triple-A successes like LA Noire (2011) and the Walking Dead (2012) and The Wolf Among Us (2013)
@@ -172,4 +172,4 @@ Adventure games are the hero and the journey at the same time.
 
 They gave us a journey in which we learnt things about our world and about ourselves and let us come back transformed. We trained the terrible beast known as “computer”, we traveled the mysterious lands of the internet and we learned that no matter how impossible something looks, there has to be a way of fixing it. Even if it means thinking (way) outside the box
 
-PIC8
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/image8.jpg)
