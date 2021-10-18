@@ -135,7 +135,7 @@ Guybrush can now go back to the waterfall and use the monkey to turn the pump.
 
 Get it? it’s a MONKEY wrench!. **Hilarious.**
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/image6.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/6.jpg)
 
 My bet is that many players got this answer by trial and error, by mistake, or by waiting some years and asking the internet. Sure the game has a certain comedic tone which fits the joke, but the thing is, If you are faced with a pump in an adventure game, you’ll probably search everywhere for a tool. I don’t know how many people thought “I need a monkey wrench, oh wait! there is a monkey at the bar.. etc”.
 
@@ -159,7 +159,7 @@ After a dark decade, adventure games seem to be getting back on their feet. What
 
 I think indie games were the ones that kept the flame alive after all these years. When a lot of publishers shyed from slow paced games and puzzle riddled games, they were the ones giving us masterpieces like: The Last Door (2013), The Room (2012) or Return of the Obra Dinn (2018)
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/image7.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/7.jpg)
 
 There is also the revival of the Point-and-click games with Thimbleweed Park (2017), Sam & Max (2021) and the remasterization of the Monkey Island Saga.
 And we also got triple-A successes like LA Noire (2011) and the Walking Dead (2012) and The Wolf Among Us (2013)
@@ -172,4 +172,4 @@ Adventure games are the hero and the journey at the same time.
 
 They gave us a journey in which we learnt things about our world and about ourselves and let us come back transformed. We trained the terrible beast known as “computer”, we traveled the mysterious lands of the internet and we learned that no matter how impossible something looks, there has to be a way of fixing it. Even if it means thinking (way) outside the box
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/image8.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/8.jpg)
