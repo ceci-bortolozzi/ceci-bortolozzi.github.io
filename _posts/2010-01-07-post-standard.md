@@ -1,13 +1,9 @@
 ---
 title: "Blockchain: useful or another NASA pen?"
 excerpt_separator: "<!--more-->"
-categories:
+tags:
   - blockchain
   - tech
-tags:
-  - Post Formats
-  - readability
-  - standard
 ---
 
 There is a famous rumour about the space race in which the US spent millions of dollars developing a special anti-gravity pen so the astronauts could take notes in space without difficulty. 
