@@ -27,7 +27,7 @@ Colossal Cave Adventure was the first known work of interactive fiction and, as 
 
 Four years later,Roberta Williams came up with Mystery House (1980), a game you might remember from the movie Big (1988).
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/2.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/2.png)
 
 The game starts near an abandoned Victorian mansion and the player is soon locked inside the house with no other option than to explore. The mansion contains many interesting rooms and seven other people: Tom, a plumber; Sam, a mechanic; Sally, a seamstress; Dr. Green, a surgeon; Joe, a grave-digger; Bill, a butcher; and Daisy, a cook.
 
@@ -88,7 +88,7 @@ And i’m not talking about some confusing lost-in-translation jokes (Like a lit
 Some adventure games were so difficult Sierra On-line even came up with a phone line to get hints. (This was also mocked in a Monkey Island game)
 Don’t get me wrong, getting stuck IS half the fun of an adventure game. If a playthrough is too easy you get the feeling that you are too good for it (or that you shouldn’t have spent $50 in it)
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/5.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/5.png)
 
 ### Make them hard but not too hard
 
@@ -135,7 +135,7 @@ Guybrush can now go back to the waterfall and use the monkey to turn the pump.
 
 Get it? it’s a MONKEY wrench!. **Hilarious.**
 
-![alt]({{ site.url }}{{ site.baseurl }}/assets/images/6.jpg)
+![alt]({{ site.url }}{{ site.baseurl }}/assets/images/6.png)
 
 My bet is that many players got this answer by trial and error, by mistake, or by waiting some years and asking the internet. Sure the game has a certain comedic tone which fits the joke, but the thing is, If you are faced with a pump in an adventure game, you’ll probably search everywhere for a tool. I don’t know how many people thought “I need a monkey wrench, oh wait! there is a monkey at the bar.. etc”.
 
