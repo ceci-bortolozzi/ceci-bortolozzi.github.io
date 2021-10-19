@@ -33,7 +33,7 @@ Therefore, each block has a specific and immovable place within the chain. That 
 
 In 2018 the small town of Zuidhorn in the Netherlands decided to take their chances with blockchain. A tech enthusiast named Maarten Velthuijs promised a very new, complex and functional system for a poverty aid program. 
 
-What in the past would have been a bureaucratic nightmare turned into a simple code that Each family could scan and get their bicycles, theatre tickets and other benefits.
+What in the past would have been a bureaucratic nightmare turned into a simple code that each family could scan and get their bicycles, theatre tickets and other benefits.
 
 The tiny town of Zuidhorn was suddenly on the map and won multiple prizes and awards for being pioneers in municipal work. A lot of IT projects came along and they were seen as the model town for Europe
 
@@ -106,7 +106,7 @@ Funny thing is, if you check if there is a blockchain working in Zuidhorn, you�
 When asked about the blockchain project Maarten Velthuijs just seems to shrug it off. ““I don’t know. We keep trying to tell people, but it doesn’t seem to stick.”
 
 The truth is, the small town’s poverty aid plan runs on a simple app, using very simple code, running on very simple databases. It works wonderfully too, but it doesn’t run on a blockchain. 
-A blockchain might be a bit of an overkill for certain projects.
+As we say in video games, a blockchain might be a bit of an overkill for certain projects.
 
 ### But it’s the safest way to move data!
 
@@ -118,7 +118,7 @@ Let’s say I'm an animal importer and I register a bunch of pigeons as rare and
 
 Some people have suggested using blockchain for land registry. That would solve a lot of problems in corrupt administrations, right? Technically yes, a lot of buildings just sprout in places with no land registry but blockchain can’t do anything about it.
 
-A blockchain is a database – it’s not a self-regulating system that checks all data for correctness. So, if you input garbage, that’s what you are going to get later.
+But a blockchain is a database – it’s not a self-regulating system that checks all data for correctness. So, if you input garbage, that’s what you are going to get later.
 
 So, yes, this is why you still need supervisors, administrators and lawyers. I’m sorry that utopic world where you don’t need them still doesn’t exist.
 
@@ -162,6 +162,6 @@ A smart contract also can be regarded as a secured stored procedure as its execu
 Take RSK for example. A company that supplies secure smart contracts and whose blockchain is secured by Bitcoin hashing power through merged mining.
 RSK uses GHOST to achieve average commit times between blocks of 10 seconds. The maximum transactional capacity for simple payments is estimated at approximately 400 transactions per second.
 
-In conclusion, blockchain might have been the very expensive pen that NASA spent millions developing, but it got better over the years. Meanwhile, the russian pencil’s lead and chips were a danger to the spaceship.
+In conclusion, blockchain might have been the very expensive pen that NASA spent millions developing, but it got better over the years. Meanwhile, the russian pencil’s lead and chips became a danger to the spaceship.
 
 ![alt]({{ site.url }}{{ site.baseurl }}/assets/images/image2.jpg)
